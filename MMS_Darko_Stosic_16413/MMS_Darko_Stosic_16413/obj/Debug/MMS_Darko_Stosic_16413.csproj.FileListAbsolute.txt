@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\MMS_Darko_Stosic_16413\MMS_Darko_Stosic_16413\bin\Debug\MMS_Darko_Stosic_16413.exe.config
+C:\Users\user\source\repos\MMS_Darko_Stosic_16413\MMS_Darko_Stosic_16413\bin\Debug\MMS_Darko_Stosic_16413.exe
+C:\Users\user\source\repos\MMS_Darko_Stosic_16413\MMS_Darko_Stosic_16413\bin\Debug\MMS_Darko_Stosic_16413.pdb
+C:\Users\user\source\repos\MMS_Darko_Stosic_16413\MMS_Darko_Stosic_16413\obj\Debug\MMS_Darko_Stosic_16413.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MMS_Darko_Stosic_16413\MMS_Darko_Stosic_16413\obj\Debug\MMS_Darko_Stosic_16413.Form1.resources
+C:\Users\user\source\repos\MMS_Darko_Stosic_16413\MMS_Darko_Stosic_16413\obj\Debug\MMS_Darko_Stosic_16413.Properties.Resources.resources
+C:\Users\user\source\repos\MMS_Darko_Stosic_16413\MMS_Darko_Stosic_16413\obj\Debug\MMS_Darko_Stosic_16413.csproj.GenerateResource.cache
+C:\Users\user\source\repos\MMS_Darko_Stosic_16413\MMS_Darko_Stosic_16413\obj\Debug\MMS_Darko_Stosic_16413.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MMS_Darko_Stosic_16413\MMS_Darko_Stosic_16413\obj\Debug\MMS_Darko_Stosic_16413.exe
+C:\Users\user\source\repos\MMS_Darko_Stosic_16413\MMS_Darko_Stosic_16413\obj\Debug\MMS_Darko_Stosic_16413.pdb
+C:\Users\user\source\repos\MMS_Darko_Stosic_16413\MMS_Darko_Stosic_16413\obj\Debug\MMS_Darko_Stosic_16413.GammaInput.resources
+C:\Users\user\source\repos\MMS_Darko_Stosic_16413\MMS_Darko_Stosic_16413\obj\Debug\MMS_Darko_Stosic_16413.EdgeParameter.resources
